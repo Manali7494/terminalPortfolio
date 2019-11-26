@@ -1,0 +1,25 @@
+<span class="terminalPrompt">code@manali</span>:<span class="tilda">~</span><span class="dollar" >$</span> cd Manali/About_Me
+<span class="terminalPrompt">coder@manali</span>:<span class="tilda">~</span><span class="dollar">$</span> cat manali.txt<br/><br/>
+My favorite code quote, <span class="quote">“Everybody should learn to program a computer, because it teaches you how to think.”</span>.
+
+Hey There! Welcome to my site. 
+<p> <a href="https://portfolio.manalib.ca"> Click here </a> for my portfolio website </p>
+<p>A bit about me:</p>
+I'm a full stack software developer with a background in Mechanical Engineering. <br/>
+I'm passionate about creative problem solving and developing clean,
+modular code in both front-end and back-end programming. Whether in
+software development or 3D mechanical design, my love for both
+design and usability is always apparent in my work.
+<br/>
+I receive great satisfaction from solving programming challenges,
+learning new coding methodologies/technologies, and developing
+more efficient solutions to existing problems.<br>
+I have worked in following: <br/>
+Languages: Javascript, CSS, HTML5, Ruby, Python, C# </br/>
+Frameworks / Libraries: jQuery, Rails, SASS, Bootstrap, NodeJS, React <br/>
+Systems, CMS, & Databases: Git, SQL, MongoDB, PostgreSQL, TFS, GraphQL <br/>
+Testing: Chai, Mocha, and Cypress 
+<br/>
+Feel free to connect me on: <br> <a href="link1">LinkedIn</a> <br>
+You can also email at: <a href="manalibhattacharyya10@gmail.com">manalibhattacharyya10@gmail.com</a>.
+<p>Cheers!</p>
